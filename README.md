@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Портфолио Студента</title>
     <style>
+        
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -76,7 +78,7 @@
         <p>Группа: 324</p>
         <p>Специальность: Администратор баз данных </p>
         <p>Курс: Второй </p>
-
+        
         <div class="description">
             <h3>Описание</h3>
             <p>Студент ГПОАУ АО АПК. Поступила на айти, чтобы в будущем иметь базу под создание игр. Дополнительно изучаю Графический дизайн для своего развития в художественной сфере и работе с 3D моделями. Учусь писать сайты на HTML и делать базы данных в Access. А еще я делаю косплеи ;)</p>
